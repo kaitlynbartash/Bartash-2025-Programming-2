@@ -15,7 +15,7 @@ Once you hit 10 the game will end display your score as well as previous score.
 
 Katie:
 
-The hardest part of the code was the making the stopwatch. I was unware that there was a thousand seconds in a millisecond.
+The hardest part of the code on my part was the making the stopwatch and working out the object for that.
 ```
 update() {
     let currentMillis = millis();
