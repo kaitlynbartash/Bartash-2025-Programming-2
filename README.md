@@ -1,5 +1,8 @@
 # Binary Buddies ~ Mole Mayhem
 By: Helina Tadesse (tadesseh@emmanuel.edu), Katie Bartash (bartashk@emmanuel.edu) May 1st , 2025
+
+Play game here: https://kaitlynbartash.github.io/Bartash-2025-Programming-2/
+
 # Getting Started
 This game is Mole Mayhem Is a fast paced reaction time game. It is our a take on whack-O-mole. You will be timed and must hit as many moles as you can!
 
